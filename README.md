@@ -21,7 +21,7 @@ PERN stack basic Todo App
 Unfortunately, I cannot reveal the source code as per SFU policy. But here is a demo of the Application
 
 #### **Course Planner**
-Solution to confusion over required courses in SFU CS program. Created during the Fall Hack, November 2020
+Solution to confusion over required courses in SFU CS program. Created during the Fall Hack, November 2020  
 [`Source Code`](https://github.com/Cway14/csss)
 [`Live Demo`](http://csss.camway.ca)
 
