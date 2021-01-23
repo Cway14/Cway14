@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [`Source Code`](https://github.com/Cway14/todo-list)
 [`Live Demo`](http://camway.ca)
 
-#### <a title="Google Inc., CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Android_robot.svg"><img width="20" alt="Android robot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/256px-Android_robot.svg.png"></a> **Android App:**
+#### **Android App** <a title="Google Inc., CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Android_robot.svg"><img width="16" alt="Android robot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/256px-Android_robot.svg.png"></a>
 Unfortunately, I cannot reveal the source code as per SFU policy. But here is a demo of the Application
 
 
