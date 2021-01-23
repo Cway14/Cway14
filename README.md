@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 ### Some of my Projects:
 
-**Todo List**
+- **Todo List**
 [`Source Code`](https://github.com/Cway14/todo-list)
 [`Live Demo`](http://camway.ca)
 
-**Android App**
+- **Android App**
 Unfortunately, I cannot reveal the source code as per SFU policy. But here is a demo of the Application
 
 
