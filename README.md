@@ -3,13 +3,6 @@
 
 My name is Cam! I am a SFU student from Canada, who loves to learn new skills and apply them! You can find more of my work at [`camway.ca`](http://camway.ca)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my profile site at [`camway.ca`](http://camway.ca)
-- 🌱 I’m currently learning lots about PCB design and LoRa communication
-- 💬 Ask me about anything :)
-- ⚡ Fun fact: I love the outdoors! If I am not coding, I am probably hiking or skiing ⛷
-
 ### Some of my Projects:
 
 #### **Todo List:**
