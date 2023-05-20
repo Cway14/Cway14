@@ -5,6 +5,11 @@ My name is Cam! I am a SFU student from Canada, who loves to learn new skills an
 
 ### Projects:
 
-  - Princes Grand Escape (WIP) [`Source Code`](https://github.com/Cway14/CMPT-415) [`Live Demo`](https://princes-grand-escape.netlify.app/)
+  - Princes Grand Escape (WIP) [`Live Demo`](https://princes-grand-escape.netlify.app/) [`Source Code`](https://github.com/Cway14/CMPT-415) 
+  - S&P 500 Trend Prediction [`Report`](https://camway.ca/sp500.pdf) [`Source Code`](https://github.com/kazizi-dev/financial-time-series-prediction)
+  - Python Web Server [`Source Code`](https://github.com/Cway14/python-webserver)
+  - Random Whistle App [`Source Code`](https://github.com/Cway14/whistle-timer)
+  - Course Planner [`Live Demo`](https://csss.camway.ca) [`Source Code`](https://github.com/Cway14/CSSS)
+  - To Do List [`Live Demo`](https://todo.camway.ca/) [`Source Code`](https://github.com/cway14/todo-list)
 
 While I am not active on here, I am likely using my school Gitlab or work Bitbucket accounts.
